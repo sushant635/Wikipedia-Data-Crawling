@@ -7,7 +7,7 @@ This Python-based project is designed to crawl data from Wikipedia using Apache 
 ![System Architecture](/system_architecture.png)
 
 # Tableau Dashboard
-![Tableau Dashboard](/Screenshot%202025-01-15%20at%2011.57.31%20PM.png)
+![Tableau Dashboard](/Screenshot.png)
 
 
 # Key Technologies Used
