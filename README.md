@@ -6,6 +6,9 @@ This Python-based project is designed to crawl data from Wikipedia using Apache 
 # System Architecture
 ![System Architecture](/system_architecture.png)
 
+# Tableau Dashboard
+![Tableau Dashboard](/Screenshot 2025-01-15 at 11.57.31 PM.png)
+
 
 # Key Technologies Used
 - Apache Airflow: Used for orchestrating and automating the workflow.
